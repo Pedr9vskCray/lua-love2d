@@ -15,6 +15,8 @@ end
 
 assignedVar = double
 
+-- unrelated but you can comment big blocks of code using: [[ code-block ]] as seen below
+
 --[[
 increase(5)
 increase(10)
