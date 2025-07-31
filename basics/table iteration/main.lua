@@ -1,4 +1,4 @@
--- iterating over tables using for
+-- iterating over tables using for loop
 
 scores = {55, 24, 23}
 total = 0
